@@ -1,4 +1,4 @@
-li=[2,3,4,5]
+li = [2, 3, 4, 5, 6]
 
-v=[x*2 for x in  li]
+v = [x * 2 for x in li]
 print(v)
